@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/couponservice/couponservice.iml" filepath="$PROJECT_DIR$/couponservice/couponservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/devopsPractisesWithAws.iml" filepath="$PROJECT_DIR$/.idea/devopsPractisesWithAws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productservice/productservice.iml" filepath="$PROJECT_DIR$/productservice/productservice.iml" />
     </modules>
   </component>
 </project>
